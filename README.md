@@ -1,5 +1,5 @@
 #### Hi there !
-Well, I'm a senior Moroccan based computer science engineering student.  
+Well, I'm a Moroccan based computer science engineering student.  
 I make code for fun, mostly!  
 Almost forgot my name is ELATTAR Saad :)
 
