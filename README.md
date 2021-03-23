@@ -1,7 +1,7 @@
 #### Hi there !
-Well, I'm a Moroccan based computer science engineering student.  
-I make code for fun, mostly!  
-Almost forgot my name is ELATTAR Saad :)
+Moroccan | Java brain | Junior software architect
+
+"The only way to predict the future is to code it"
 
 Check me out on :  
 Twitter : https://twitter.com/daasrattale  
