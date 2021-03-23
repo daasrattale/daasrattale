@@ -8,7 +8,7 @@ Twitter : https://twitter.com/daasrattale
 Stackoverflow : https://stackoverflow.com/users/12327871/xrio  
 LinkedIn : https://www.linkedin.com/in/elattar-saad/  
 DEV : https://dev.to/xrio  
-Medium : https://medium.com/@xrio
+Medium : https://xrio.medium.com/
 
 
 
