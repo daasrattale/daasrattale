@@ -1,4 +1,4 @@
-#### Hi there ! I'm ELATTAR Saad :D
+#### Hi there ! I'm ELATTAR Saad.
 
 Moroccan 🇲🇦 | Java Brain ☕️ | Junior Software Architect
 
