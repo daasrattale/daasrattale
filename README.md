@@ -1,7 +1,8 @@
 #### Hi there ! I'm ELATTAR Saad :D
-Moroccan | Java brain | Junior software architect
 
-"The only way to predict the future is to code it"
+Moroccan 🇲🇦 | Java Brain ☕️ | Junior Software Architect
+
+"The only way to predict the future is to code it" ✨
 
 Check me out on :  
 Twitter : https://twitter.com/daasrattale  
