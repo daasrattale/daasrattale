@@ -75,7 +75,7 @@
 ### 📕 Latest Blog Posts
 
 
-- [Lost in binaries, Here’s what I do!](hhttps://xrio.medium.com/lost-in-binaries-heres-what-i-do-d4b82fae0d93)
+- [Lost in binaries, Here’s what I do!](https://xrio.medium.com/lost-in-binaries-heres-what-i-do-d4b82fae0d93)
 - [What about your first IT internship?](https://xrio.medium.com/what-about-your-first-it-internship-1a43518111a3)
 - [6 things to know as a fresh IT student](https://xrio.medium.com/what-you-need-to-know-as-a-newbie-computer-engineering-student-9cb98d597094)
 
