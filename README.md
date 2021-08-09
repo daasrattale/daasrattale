@@ -28,10 +28,14 @@
 [<img align="left" alt="Laravel" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" />][xrio]
 [<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][xrio]
 [<img align="left" alt="Deno" width="40px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][xrio]
+<br>
+<br>
+<br>
 [<img align="left" alt="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][xrio]
 [<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][xrio]
 [<img align="left" alt="Next" width="40px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" />][xrio]
 [<img align="left" alt="Gatsby" width="40px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][xrio]
+<br>
 <br>
 
 [<img align="left" alt="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][xrio]
@@ -41,21 +45,21 @@
 [<img align="left" alt="TypeScript" width="40px" src="https://devexp.io/wp-content/uploads/2019/05/ts.png" />][xrio]
 [<img align="left" alt="JavaScript" width="40px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" />][xrio]
 <br>
-
+<br><br>
 
 [<img align="left" alt="SQL" width="40px" src="https://www.simego.com/content/img/oracle.png" />][xrio]
 [<img align="left" alt="MySQL" width="40px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" />][xrio]
 [<img align="left" alt="MongoDB" width="40px" src="https://i.dlpng.com/static/png/359589_preview.png" />][xrio]
 [<img align="left" alt="elk" width="40px" src="https://cdn.freebiesupply.com/logos/large/2x/elastic-stack-logo-png-transparent.png" />][xrio]
-<br>
+<br><br><br>
 
 [<img align="left" alt="Git" width="40px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />][xrio]
 [<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][xrio]
 [<img align="left" alt="GitHub" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bitbucket-blue-logomark-only.svg/1200px-Bitbucket-blue-logomark-only.svg.png" />][xrio]
-<br>
+<br><br><br>
 
 [<img align="left" alt="GraphQL" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" />][xrio]
-<br>
+<br><br><br>
 
 [<img align="left" alt="Jira" width="40px" src="https://clearhub.tech/wp-content/uploads/2018/08/AppLogo_Jira.png" />][xrio]
 [<img align="left" alt="Trello" width="40px" src="http://assets.stickpng.com/images/58482beecef1014c0b5e4a36.png" />][xrio]
