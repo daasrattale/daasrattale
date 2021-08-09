@@ -41,9 +41,8 @@
 [<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][xrio]
 [<img align="left" alt="Sass" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][xrio]
 [<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][xrio]
-[<img align="left" alt="JavaScript" width="40px" src="https://devexp.io/wp-content/uploads/2019/05/ts.png" />][xrio]
+[<img align="left" alt="TypeScript" width="40px" src="https://devexp.io/wp-content/uploads/2019/05/ts.png" />][xrio]
 [<img align="left" alt="JavaScript" width="40px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" />][xrio]
-[<img align="left" alt="JavaScript" width="40px" src="http://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" />][xrio]
 <br>
 
 
@@ -67,14 +66,14 @@
 
 
 <br />
-<br />
+
 
 
 ---
 
 ### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
+
 - [Lost in binaries, Here’s what I do!](hhttps://xrio.medium.com/lost-in-binaries-heres-what-i-do-d4b82fae0d93)
 - [What about your first IT internship?](https://xrio.medium.com/what-about-your-first-it-internship-1a43518111a3)
 - [6 things to know as a fresh IT student](https://xrio.medium.com/what-you-need-to-know-as-a-newbie-computer-engineering-student-9cb98d597094)
@@ -82,12 +81,10 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+  ### GitHub Stats</summary>
 
-  <img align="left" alt="xrio's GitHub Stats" src="https://github-readme-stats.xrio.vercel.app/api?username=xrio&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xrio&show_icons=true&fbclid=IwAR26PLeNJcTaQvMgDHqy5kXj32kpuywuC02-bjgTOF_28PC2iFZjTv4KHxU"/>
 
-</details>
 
 [twitter]: https://twitter.com/daasrattale
 [medium]: https://xrio.medium.com
