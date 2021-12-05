@@ -71,11 +71,6 @@
 
 ---
 
-  ### GitHub Stats</summary>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=xrio&show_icons=true&fbclid=IwAR26PLeNJcTaQvMgDHqy5kXj32kpuywuC02-bjgTOF_28PC2iFZjTv4KHxU"/>
-
-
 [twitter]: https://twitter.com/daasrattale
 [medium]: https://xrio.medium.com
 [stackoverflow]: https://stackoverflow.com/users/12327871/xrio?tab=profile
