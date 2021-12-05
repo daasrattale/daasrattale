@@ -63,10 +63,13 @@
 
 ### 📕 Latest Blog Posts
 
-
-- [Lost in binaries, Here’s what I do!](https://xrio.medium.com/lost-in-binaries-heres-what-i-do-d4b82fae0d93)
-- [What about your first IT internship?](https://xrio.medium.com/what-about-your-first-it-internship-1a43518111a3)
-- [6 things to know as a fresh IT student](https://xrio.medium.com/what-you-need-to-know-as-a-newbie-computer-engineering-student-9cb98d597094)
+- [Spring Boot optional request params](https://elattar.me/posts/spring-optional-request-params/)
+- [Spring Boot validation and bean manipulation](https://elattar.me/posts/spring-validation-and-bean-manipulation/)
+- [Getting started with Spring Boot: Creating a simple movies list API](https://elattar.me/posts/getting-started-with-spring-boot-creating-a-simple-movies-list-api/)
+- [Starting with Spring Framework? Here's what you need to know](https://elattar.me/posts/starting-with-spring-heres-what-you-need-to-know/)
+- [Lost in binaries, Here’s what I do!](https://elattar.me/posts/lost-in-binaries-heres-what-i-do/)
+- [What about your first IT internship?](https://elattar.me/posts/what-about-your-first-it-internship/)
+- [6 things to know as a fresh IT student](https://elattar.me/posts/6-things-to-know-as-a-fresh-it-student/)
 
 
 ---
