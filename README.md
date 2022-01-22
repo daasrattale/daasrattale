@@ -1,6 +1,6 @@
 ### Hi there, I'm Saad - aka xrio
 
-[![Website](https://img.shields.io/website?label=upwork.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.upwork.com/o/profiles/users/~01a2fbb1a58525780c/)
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/daasrattale?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdaasrattale&screen_name=daasrattale)
 
 
