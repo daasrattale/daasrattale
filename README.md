@@ -1,81 +1,59 @@
-### Hi there, I'm Saad - aka xrio
+Hi 👋 My name is ELATTAR Saad
+=============================
+
+Software Solution Engineer
+--------------------------
+
+I'm a Moroccan software solution engineer, got the passion to deal with backend cloud architectures and the front's user experience alphabets.
+
+* 🌍  I'm based in Marrakech Morocco
+* 🖥️  See my portfolio at [elattar.me](http://elattar.me)
+* ✉️  You can contact me at [sa.elattar.ad@gmail.com](mailto:sa.elattar.ad@gmail.com)
+
+<a href="https://www.twitter.com/daasrattale" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/daasrattale?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.github.com/xrio" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/xrio?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+### Skills
+
+<p align="left">
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
+<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg" width="36" height="36" alt="Gatsby" /></a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="36" height="36" alt="Svelte" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
+<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+</p>
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/daasrattale?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdaasrattale&screen_name=daasrattale)
+### Socials
 
+<p align="left"> <a href="https://www.github.com/xrio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/elattar-saad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/xrio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://elattar.me" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/12327871/xrio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/daasrattale" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### I'm a Moroccan 🇲🇦 | Java Brain ☕️ | Architecture enthusiast ☁️
+### Badges
 
-"The only way to predict the future is to code it" ✨
+<b>My GitHub Stats</b>
 
-- 🔅 System designs are sacred.
-- 🤟🏻 I’m currently learning it all.
-- 🤍 I'm very passionate about new tech.
-- 👻 Cute fact: I love my job.
+<a href="http://www.github.com/xrio"><img src="https://github-readme-stats.vercel.app/api?username=xrio&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="xrio's GitHub stats" /></a>
 
-### Connect with me on :
+<a href="http://www.github.com/xrio"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xrio&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-[<img align="left" alt="xrio | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="xrio | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="xrio | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="xrio | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Spring" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />][xrio]
-[<img align="left" alt="Nest" width="22px" src="https://docs.nestjs.com/assets/logo-small.svg" />][xrio]
-[<img align="left" alt="Laravel" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" />][xrio]
-[<img align="left" alt="Node.js" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][xrio]
-[<img align="left" alt="Deno" width="22px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][xrio]
-<br>
-<br>
-[<img align="left" alt="Angular" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][xrio]
-[<img align="left" alt="React" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][xrio]
-[<img align="left" alt="Next" width="22px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" />][xrio]
-[<img align="left" alt="Gatsby" width="22px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][xrio]
-<br>
-<br>
-[<img align="left" alt="HTML" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][xrio]
-[<img align="left" alt="CSS3" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][xrio]
-[<img align="left" alt="Sass" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][xrio]
-[<img align="left" alt="JavaScript" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][xrio]
-[<img align="left" alt="TypeScript" width="22px" src="https://devexp.io/wp-content/uploads/2019/05/ts.png" />][xrio]
-[<img align="left" alt="JavaScript" width="22px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" />][xrio]
-<br>
-<br>
-[<img align="left" alt="SQL" width="22px" src="https://www.simego.com/content/img/oracle.png" />][xrio]
-[<img align="left" alt="MySQL" width="22px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" />][xrio]
-[<img align="left" alt="MongoDB" width="22px" src="https://i.dlpng.com/static/png/359589_preview.png" />][xrio]
-[<img align="left" alt="elk" width="22px" src="https://cdn.freebiesupply.com/logos/large/2x/elastic-stack-logo-png-transparent.png" />][xrio]
-<br><br>
-[<img align="left" alt="Git" width="22px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />][xrio]
-[<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][xrio]
-[<img align="left" alt="GitHub" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bitbucket-blue-logomark-only.svg/1200px-Bitbucket-blue-logomark-only.svg.png" />][xrio]
-<br><br>
-[<img align="left" alt="GraphQL" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" />][xrio]
-<br><br>
-[<img align="left" alt="Jira" width="22px" src="https://clearhub.tech/wp-content/uploads/2018/08/AppLogo_Jira.png" />][xrio]
-[<img align="left" alt="Notion" width="22px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b86edfa2-993d-4f6a-87e4-d0709fd9c0b1/ddgxeer-4754f58f-17b1-4d33-b8e3-b158a10a9aba.png/v1/fill/w_894,h_894,strp/white_notion_logo_icon_for_black_dark_theme_by_seyahdoo_ddgxeer-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI4MCIsInBhdGgiOiJcL2ZcL2I4NmVkZmEyLTk5M2QtNGY2YS04N2U0LWQwNzA5ZmQ5YzBiMVwvZGRneGVlci00NzU0ZjU4Zi0xN2IxLTRkMzMtYjhlMy1iMTU4YTEwYTlhYmEucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.cumez1G4ONxtJEtwuYDFMWxdL-VUReQXufSovBCVI14" />][xrio]
-<br />
-
----
-
-### 📕 Latest Blog Posts
-
-- [Spring Boot optional request params](https://elattar.me/posts/spring-optional-request-params/)
-- [Spring Boot validation and bean manipulation](https://elattar.me/posts/spring-validation-and-bean-manipulation/)
-- [Getting started with Spring Boot: Creating a simple movies list API](https://elattar.me/posts/getting-started-with-spring-boot-creating-a-simple-movies-list-api/)
-- [Starting with Spring Framework? Here's what you need to know](https://elattar.me/posts/starting-with-spring-heres-what-you-need-to-know/)
-- [Lost in binaries, Here’s what I do!](https://elattar.me/posts/lost-in-binaries-heres-what-i-do/)
-- [What about your first IT internship?](https://elattar.me/posts/what-about-your-first-it-internship/)
-- [6 things to know as a fresh IT student](https://elattar.me/posts/6-things-to-know-as-a-fresh-it-student/)
-
-
----
-
-[twitter]: https://twitter.com/daasrattale
-[medium]: https://xrio.medium.com
-[stackoverflow]: https://stackoverflow.com/users/12327871/xrio?tab=profile
-[linkedin]: https://www.linkedin.com/in/elattar-saad/
-[xrio]: https://github.com/xrio/xrio
+<a href="http://www.github.com/xrio"><img src="https://activity-graph.herokuapp.com/graph?username=xrio&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
