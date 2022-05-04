@@ -1,4 +1,4 @@
-Hi 👋 My name is ELATTAR Saad
+ELATTAR Saad
 =============================
 
 Software Solution Engineer
