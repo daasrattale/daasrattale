@@ -10,10 +10,13 @@ I'm a Moroccan software solution engineer, got the passion to deal with backend 
 * 🖥️  See my portfolio at [elattar.me](http://elattar.me)
 * ✉️  You can contact me at [sa.elattar.ad@gmail.com](mailto:sa.elattar.ad@gmail.com)
 
-<a href="https://www.twitter.com/daasrattale" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/daasrattale?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/xrio" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/xrio?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.twitter.com/daasrattale" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/twitter/follow/daasrattale?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</a>
+
+<a href="https://www.github.com/xrio" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/xrio?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</a>
 
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
