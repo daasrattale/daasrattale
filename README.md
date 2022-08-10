@@ -15,6 +15,9 @@ src="https://img.shields.io/twitter/follow/daasrattale?logo=twitter&style=for-th
 /></a><a href="https://www.github.com/xrio" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/xrio?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+
 ### Skills
 
 <p align="left">
