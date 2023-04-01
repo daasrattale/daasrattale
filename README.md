@@ -15,7 +15,7 @@ I'm a Moroccan software solution engineer, got the passion to deal with backend 
 </a>
 
 <a href="https://www.github.com/daasrattale" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/xrio?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+  <img src="https://img.shields.io/github/followers/daasrattale?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
 
 
