@@ -6,9 +6,7 @@ Software Engineer
 
 I'm a Moroccan software solution engineer, got the passion to deal with backend cloud architectures and the front's user experience alphabets.
 
-* 🌍  I'm based in Marrakech Morocco
-* 🖥️  See my portfolio at [elattar.me](http://elattar.me)
-* ✉️  You can contact me at [sa.elattar.ad@gmail.com](mailto:sa.elattar.ad@gmail.com)
+* 🌍  I'm based in Porto, Portugal
 
 <a href="https://www.twitter.com/daasrattale" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/twitter/follow/daasrattale?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" />
