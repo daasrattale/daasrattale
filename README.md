@@ -6,8 +6,6 @@ Software Engineer
 
 I'm a Moroccan software solution engineer, got the passion to deal with backend cloud architectures and the front's user experience alphabets.
 
-* 🌍  I'm based in Porto, Portugal
-
 <a href="https://www.twitter.com/daasrattale" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/twitter/follow/daasrattale?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
@@ -17,7 +15,7 @@ I'm a Moroccan software solution engineer, got the passion to deal with backend 
 </a>
 
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+![](https://komarev.com/ghpvc/?username=daasrattale&color=blue)
 
 ### Skills
 
@@ -56,8 +54,8 @@ I'm a Moroccan software solution engineer, got the passion to deal with backend 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/xrio"><img src="https://github-readme-stats.vercel.app/api?username=xrio&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="xrio's GitHub stats" /></a>
+<a href="http://www.github.com/daasrattale"><img src="https://github-readme-stats.vercel.app/api?username=daasrattale&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="daasrattale's GitHub stats" /></a>
 
-<a href="http://www.github.com/xrio"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xrio&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/daasrattale"><img src="https://github-readme-streak-stats.herokuapp.com/?user=daasrattale&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/xrio"><img src="https://activity-graph.herokuapp.com/graph?username=xrio&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/daasrattale"><img src="https://activity-graph.herokuapp.com/graph?username=daasrattale&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
