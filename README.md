@@ -7,7 +7,7 @@ Software Engineer
 I'm a software solution engineer, got the passion to deal with backend cloud architectures and the front's user experience alphabets.
 
 <a href="https://www.twitter.com/daasrattale" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/twitter/follow/xrio?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+  <img src="https://img.shields.io/twitter/follow/daasrattale?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
 
 <a href="https://www.github.com/daasrattale" target="_blank" rel="noreferrer">
